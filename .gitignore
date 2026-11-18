@@ -1,0 +1,8 @@
+*.class
+target/
+project/target/
+.bsp/
+.metals/
+.local/
+Data/
+src/test/resources/*
